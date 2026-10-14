@@ -1,0 +1,617 @@
+{
+  "chunkId": "2027-05",
+  "dateRange": {
+    "startEpochMs": 1809172800000,
+    "endEpochMs": 1810814400000
+  },
+  "events": [
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        809288771
+      ],
+      "createdAtEpochMs": 1791595464839,
+      "date": "2027-05-01",
+      "dateEpochMs": 1809172800000,
+      "firstImportRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1791595464839,
+      "headlinerArtistId": 809288771,
+      "id": 1700507240,
+      "isFree": false,
+      "provenanceConflicts": [],
+      "slug": "2027-05-01-lola-young-the-civic-auditorium",
+      "sourceLineNumber": 1152,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:97d181d0194fcc8b",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1791595464839,
+          "firstSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1648637995,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1791595464839,
+      "venueId": 1648637995,
+      "venueType": "major",
+      "poster": {
+        "imageUrl": "https://billgrahamcivic.com/wp-content/uploads/2026/10/1024_LolaYoung.jpg",
+        "eventUrl": "https://billgrahamcivic.com/events/lola-young-270501",
+        "kind": "event-artwork",
+        "checkedOn": "2026-10-10"
+      }
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1864425371
+      ],
+      "createdAtEpochMs": 1789777368000,
+      "date": "2027-05-04",
+      "dateEpochMs": 1809432000000,
+      "firstImportRunId": "steveslist-v2-5d62e19ea17d8d9e9ae241866b063176a68d55992281b3c8f3f1f97e4910cbf9",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1789777368000,
+      "headlinerArtistId": 1864425371,
+      "id": 397081345,
+      "isFree": false,
+      "provenanceConflicts": [],
+      "slug": "2027-05-04-jean-michel-blais-the-chapel",
+      "sourceLineNumber": 1153,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:7a1a6bdf80ca4ade",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1789777368000,
+          "firstSeenRunId": "steveslist-v2-5d62e19ea17d8d9e9ae241866b063176a68d55992281b3c8f3f1f97e4910cbf9",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 680116887,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1809486000000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1789777368000,
+      "venueId": 680116887,
+      "venueType": "club",
+      "poster": {
+        "imageUrl": "https://prod-images.seetickets.us/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiYTMyNDE3NzMtOTZjOC00OTUzLTg5MTMtMjk1YTk5M2JkMzFkIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo2MDB9LCJqcGVnIjp7InF1YWxpdHkiOjYwfSwicG5nIjp7ImNvbXByZXNzaW9uTGV2ZWwiOjksInF1YWxpdHkiOjYwfSwid2VicCI6eyJxdWFsaXR5Ijo2MH19fQ==",
+        "eventUrl": "https://wl.seetickets.us/event/jean-michel-blais/705097?afflky=TheChapel",
+        "kind": "event-artwork",
+        "checkedOn": "2026-10-10"
+      }
+    },
+    {
+      "addedDateProvenance": "legacy-batch",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        486483275
+      ],
+      "createdAtEpochMs": 1778241600000,
+      "date": "2027-05-06",
+      "dateEpochMs": 1809604800000,
+      "firstImportRunId": null,
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1788566700000,
+      "headlinerArtistId": 486483275,
+      "id": 2042063808,
+      "isFree": false,
+      "priceMax": 43.5,
+      "priceMin": 43.5,
+      "provenanceConflicts": [
+        {
+          "detectedAtEpochMs": 1788566700000,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": "undefined",
+          "field": "priceMax",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": 43.5,
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1788566700000,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": "undefined",
+          "field": "priceMin",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": 43.5,
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1788566700000,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": 1809633600000,
+          "field": "startTimeEpochMs",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": 1809658800000,
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1788566700000,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": "legacy-wall-clock",
+          "field": "timeBasis",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": "instant",
+          "reason": "source-update"
+        }
+      ],
+      "slug": "2027-05-06-french-79-the-fillmore",
+      "sourceLineNumber": 1154,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:20a112aae5e00739",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1788566700000,
+          "firstSeenRunId": "steveslist-v2-ff083fa277163b7c1c14d780f4d4986e14a22b8485c03915d669cf83b93b1bd8",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1136597428,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1809658800000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1788566700000,
+      "venueId": 1136597428,
+      "venueType": "major"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        544664959
+      ],
+      "createdAtEpochMs": 1789777368000,
+      "date": "2027-05-09",
+      "dateEpochMs": 1809864000000,
+      "firstImportRunId": "steveslist-v2-5d62e19ea17d8d9e9ae241866b063176a68d55992281b3c8f3f1f97e4910cbf9",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1789777368000,
+      "headlinerArtistId": 544664959,
+      "id": 148121611,
+      "isFree": false,
+      "priceMax": 48,
+      "priceMin": 48,
+      "provenanceConflicts": [],
+      "slug": "2027-05-09-alaska-thunderfuck-the-castro",
+      "sourceLineNumber": 1155,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:f010eaa54f280e68",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1789777368000,
+          "firstSeenRunId": "steveslist-v2-5d62e19ea17d8d9e9ae241866b063176a68d55992281b3c8f3f1f97e4910cbf9",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1383208152,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1809914400000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1789777368000,
+      "venueId": 1383208152,
+      "venueType": "major"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1153516098
+      ],
+      "createdAtEpochMs": 1790381132084,
+      "date": "2027-05-09",
+      "dateEpochMs": 1809864000000,
+      "firstImportRunId": "steveslist-v2-fc127bf4aa8b39becb09f32b5bb15b3ac152f5fc9f7eb72c3582c430675b287f",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790381132084,
+      "headlinerArtistId": 1153516098,
+      "id": 792508062,
+      "isFree": false,
+      "provenanceConflicts": [],
+      "slug": "2027-05-09-too-many-zooz-the-independent",
+      "sourceLineNumber": 1156,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:6988e55065bd07e9",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790381132084,
+          "firstSeenRunId": "steveslist-v2-fc127bf4aa8b39becb09f32b5bb15b3ac152f5fc9f7eb72c3582c430675b287f",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 515101024,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1809918000000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790381132084,
+      "venueId": 515101024,
+      "venueType": "club",
+      "poster": {
+        "imageUrl": "https://i.ticketweb.com/i/00/13/04/72/24_Edp.jpg?v=7",
+        "eventUrl": "https://www.theindependentsf.com/tm-event/too-many-zooz-2/",
+        "kind": "event-artwork",
+        "checkedOn": "2026-10-10"
+      }
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1643940931,
+        1528809464
+      ],
+      "createdAtEpochMs": 1790985835628,
+      "date": "2027-05-12",
+      "dateEpochMs": 1810123200000,
+      "firstImportRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790985835628,
+      "headlinerArtistId": 1643940931,
+      "id": 279504248,
+      "isFree": false,
+      "provenanceConflicts": [],
+      "slug": "2027-05-12-fontaines-dc-the-civic-auditorium",
+      "sourceLineNumber": 1158,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:294481bcadab8a23",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790985835628,
+          "firstSeenRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1648637995,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790985835628,
+      "venueId": 1648637995,
+      "venueType": "major",
+      "poster": {
+        "imageUrl": "https://billgrahamcivic.com/wp-content/uploads/2026/09/1024_FontainesDC.jpg",
+        "eventUrl": "https://billgrahamcivic.com/events/fontaines-dc-270512",
+        "kind": "event-artwork",
+        "checkedOn": "2026-10-10"
+      }
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        739229063,
+        883900028
+      ],
+      "createdAtEpochMs": 1791595464839,
+      "date": "2027-05-12",
+      "dateEpochMs": 1810123200000,
+      "firstImportRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1791595464839,
+      "headlinerArtistId": 739229063,
+      "id": 305818474,
+      "isFree": false,
+      "priceMax": 48,
+      "priceMin": 48,
+      "provenanceConflicts": [],
+      "slug": "2027-05-12-palaye-royale-the-castro-theater",
+      "sourceLineNumber": 1157,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:a75303608aea2e98",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1791595464839,
+          "firstSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 881479351,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1810177200000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1791595464839,
+      "venueId": 881479351,
+      "venueType": "major",
+      "poster": {
+        "imageUrl": "https://thecastro.com/wp-content/uploads/2026/10/1024_PalayeRoyale.jpg",
+        "eventUrl": "https://thecastro.com/events/palaye-royale-270512",
+        "kind": "event-artwork",
+        "checkedOn": "2026-10-10"
+      }
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1425243617,
+        1959777494
+      ],
+      "createdAtEpochMs": 1788566700000,
+      "date": "2027-05-15",
+      "dateEpochMs": 1810382400000,
+      "firstImportRunId": "steveslist-v2-ff083fa277163b7c1c14d780f4d4986e14a22b8485c03915d669cf83b93b1bd8",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1788566700000,
+      "headlinerArtistId": 1425243617,
+      "id": 489208615,
+      "isFree": false,
+      "priceMax": 35,
+      "priceMin": 30,
+      "provenanceConflicts": [],
+      "slug": "2027-05-15-the-liminanas-the-chapel",
+      "sourceLineNumber": 1159,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:89446a4750374209",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1788566700000,
+          "firstSeenRunId": "steveslist-v2-ff083fa277163b7c1c14d780f4d4986e14a22b8485c03915d669cf83b93b1bd8",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 680116887,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1810440000000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1788566700000,
+      "venueId": 680116887,
+      "venueType": "club",
+      "poster": {
+        "imageUrl": "https://prod-images.seetickets.us/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiYzhhYWY4MTMtZmE3Zi00NGRmLTk3NGMtMTdjMTYxY2Y0MjFmIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo2MDB9LCJqcGVnIjp7InF1YWxpdHkiOjYwfSwicG5nIjp7ImNvbXByZXNzaW9uTGV2ZWwiOjksInF1YWxpdHkiOjYwfSwid2VicCI6eyJxdWFsaXR5Ijo2MH19fQ==",
+        "eventUrl": "https://wl.seetickets.us/event/the-liminanas/686832?afflky=TheChapel",
+        "kind": "event-artwork",
+        "checkedOn": "2026-10-10"
+      }
+    },
+    {
+      "addedDateProvenance": "legacy-batch",
+      "ageRestriction": "6+",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        367868544
+      ],
+      "createdAtEpochMs": 1778241600000,
+      "date": "2027-05-16",
+      "dateEpochMs": 1810468800000,
+      "firstImportRunId": null,
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1788566700000,
+      "headlinerArtistId": 367868544,
+      "id": 1053114888,
+      "isFree": false,
+      "notes": "96.5 FM; UK; https://mmhradio.co.uk/podcasts/losin-it-with-luscious/ [9]; every other Tuesday",
+      "provenanceConflicts": [
+        {
+          "detectedAtEpochMs": 1788566700000,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": "undefined",
+          "field": "notes",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": "96.5 FM; UK; https://mmhradio.co.uk/podcasts/losin-it-with-luscious/ [9]; every other Tuesday",
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1788566700000,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": 1810497600000,
+          "field": "startTimeEpochMs",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": 1810522800000,
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1788566700000,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": [],
+          "field": "tags",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": [
+            "matinee",
+            "late-show"
+          ],
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1788566700000,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": "legacy-wall-clock",
+          "field": "timeBasis",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": "instant",
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1788566700000,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": "major",
+          "field": "venueType",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": "club",
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1789172046956,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": "all-ages",
+          "field": "ageRestriction",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": "6+",
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1789172046956,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": [
+            "matinee",
+            "late-show"
+          ],
+          "field": "tags",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": [],
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1789172046956,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": "club",
+          "field": "venueType",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": "major",
+          "reason": "source-update"
+        }
+      ],
+      "slug": "2027-05-16-valery-meladze-the-warfield",
+      "sourceLineNumber": 1160,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:e2e7051c7ef5eabd",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1788566700000,
+          "firstSeenRunId": "steveslist-v2-ff083fa277163b7c1c14d780f4d4986e14a22b8485c03915d669cf83b93b1bd8",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1531618194,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1810522800000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1789172046956,
+      "venueId": 1531618194,
+      "venueType": "major"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        990412279
+      ],
+      "createdAtEpochMs": 1790381132084,
+      "date": "2027-05-20",
+      "dateEpochMs": 1810814400000,
+      "firstImportRunId": "steveslist-v2-fc127bf4aa8b39becb09f32b5bb15b3ac152f5fc9f7eb72c3582c430675b287f",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790381132084,
+      "headlinerArtistId": 990412279,
+      "id": 573826892,
+      "isFree": false,
+      "provenanceConflicts": [],
+      "slug": "2027-05-20-agnes-obel-the-castro",
+      "sourceLineNumber": 1161,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:08b81fe0b4c15896",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790381132084,
+          "firstSeenRunId": "steveslist-v2-fc127bf4aa8b39becb09f32b5bb15b3ac152f5fc9f7eb72c3582c430675b287f",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1383208152,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1810868400000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790381132084,
+      "venueId": 1383208152,
+      "venueType": "major",
+      "poster": {
+        "imageUrl": "https://thecastro.com/wp-content/uploads/2026/09/1024_Agnes-Obel.jpg",
+        "eventUrl": "https://thecastro.com/events/agnes-obel-270520",
+        "kind": "event-artwork",
+        "checkedOn": "2026-10-10"
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "chunkId": "2026-01",
+  "dateRange": {
+    "startEpochMs": 1767528000000,
+    "endEpochMs": 1769169600000
+  },
+  "events": [
+    {
+      "addedDateProvenance": "legacy-batch",
+      "ageRestriction": "21+",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1926351334,
+        1824904509,
+        1099223679
+      ],
+      "createdAtEpochMs": 1778241600000,
+      "date": "2026-01-04",
+      "dateEpochMs": 1767528000000,
+      "firstImportRunId": null,
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": null,
+      "headlinerArtistId": 1926351334,
+      "id": 919252920,
+      "isFree": false,
+      "priceMax": 10,
+      "priceMin": 10,
+      "provenanceConflicts": [],
+      "slug": "2026-01-04-apricot-court-the-blue-laggon",
+      "sourceLineNumber": 4,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:4f536fcef8750598",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": null,
+          "firstSeenRunId": null,
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": null,
+          "lastSeenRunId": null,
+          "originalVenueId": 1372815670,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1767560400000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "legacy-wall-clock",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1787360969655,
+      "venueId": 1372815670,
+      "venueType": "club"
+    },
+    {
+      "addedDateProvenance": "legacy-batch",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1801713526
+      ],
+      "createdAtEpochMs": 1778241600000,
+      "date": "2026-01-23",
+      "dateEpochMs": 1769169600000,
+      "firstImportRunId": null,
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": null,
+      "headlinerArtistId": 1801713526,
+      "id": 559739460,
+      "isFree": false,
+      "provenanceConflicts": [],
+      "slug": "2026-01-23-arooj-aftab-palace-of-fine-arts",
+      "sourceLineNumber": 5,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:6810d7186df862ff",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": null,
+          "firstSeenRunId": null,
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": null,
+          "lastSeenRunId": null,
+          "originalVenueId": 390079947,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1769200200000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "legacy-wall-clock",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1787360969656,
+      "venueId": 390079947,
+      "venueType": "major"
+    }
+  ]
+}

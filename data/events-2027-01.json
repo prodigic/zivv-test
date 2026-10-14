@@ -1,0 +1,2640 @@
+{
+  "chunkId": "2027-01",
+  "dateRange": {
+    "startEpochMs": 1798977600000,
+    "endEpochMs": 1801396800000
+  },
+  "events": [
+    {
+      "addedDateProvenance": "legacy-batch",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1028235980
+      ],
+      "createdAtEpochMs": 1786104000000,
+      "date": "2027-01-03",
+      "dateEpochMs": 1798977600000,
+      "firstImportRunId": null,
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1788566700000,
+      "headlinerArtistId": 1028235980,
+      "id": 436734284,
+      "isFree": false,
+      "provenanceConflicts": [
+        {
+          "detectedAtEpochMs": 1788566700000,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": 1799006400000,
+          "field": "startTimeEpochMs",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": 1799035200000,
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1788566700000,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": "legacy-wall-clock",
+          "field": "timeBasis",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": "instant",
+          "reason": "source-update"
+        }
+      ],
+      "slug": "2027-01-03-lord-huron-the-fox-theater",
+      "sourceLineNumber": 1015,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:8e8f1899b80a45f0",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1788566700000,
+          "firstSeenRunId": "steveslist-v2-ff083fa277163b7c1c14d780f4d4986e14a22b8485c03915d669cf83b93b1bd8",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 631118593,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1799035200000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1788566700000,
+      "venueId": 631118593,
+      "venueType": "major"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "18+",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        2014905745
+      ],
+      "createdAtEpochMs": 1790381132084,
+      "date": "2027-01-07",
+      "dateEpochMs": 1799323200000,
+      "firstImportRunId": "steveslist-v2-fc127bf4aa8b39becb09f32b5bb15b3ac152f5fc9f7eb72c3582c430675b287f",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790381132084,
+      "headlinerArtistId": 2014905745,
+      "id": 939996945,
+      "isFree": false,
+      "priceMax": 28.86,
+      "priceMin": 28.86,
+      "provenanceConflicts": [],
+      "slug": "2027-01-07-top-chefs-the-independent",
+      "sourceLineNumber": 1018,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:25aacfe9367abb1e",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790381132084,
+          "firstSeenRunId": "steveslist-v2-fc127bf4aa8b39becb09f32b5bb15b3ac152f5fc9f7eb72c3582c430675b287f",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 515101024,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1799380800000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790381132084,
+      "venueId": 515101024,
+      "venueType": "club"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        2064085120
+      ],
+      "createdAtEpochMs": 1791595464839,
+      "date": "2027-01-07",
+      "dateEpochMs": 1799323200000,
+      "firstImportRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1791595464839,
+      "headlinerArtistId": 2064085120,
+      "id": 719632804,
+      "isFree": false,
+      "priceMax": 39.38,
+      "priceMin": 39.38,
+      "provenanceConflicts": [],
+      "slug": "2027-01-07-chris-simpson-playing-the-songs-of-mineral-the-rickshaw-stop",
+      "sourceLineNumber": 1016,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:6b49fe7a26e572bb",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1791595464839,
+          "firstSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 31041890,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1799380800000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1791595464839,
+      "venueId": 31041890,
+      "venueType": "club"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        859944037,
+        764486865,
+        548016674
+      ],
+      "createdAtEpochMs": 1791595464839,
+      "date": "2027-01-07",
+      "dateEpochMs": 1799323200000,
+      "firstImportRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1791595464839,
+      "headlinerArtistId": 859944037,
+      "id": 1329779416,
+      "isFree": false,
+      "provenanceConflicts": [],
+      "slug": "2027-01-07-the-loved-ones-record-release-the-chapel",
+      "sourceLineNumber": 1017,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:0c84e93c4320ff19",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1791595464839,
+          "firstSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 680116887,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1799380800000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1791595464839,
+      "venueId": 680116887,
+      "venueType": "club",
+      "poster": {
+        "imageUrl": "https://prod-images.seetickets.us/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiZTQ4MzFlNDAtMGE2OC00ZGMxLWJlMmQtMzhmNzlmOTU5NzNjIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo2MDB9LCJqcGVnIjp7InF1YWxpdHkiOjYwfSwicG5nIjp7ImNvbXByZXNzaW9uTGV2ZWwiOjksInF1YWxpdHkiOjYwfSwid2VicCI6eyJxdWFsaXR5Ijo2MH19fQ==",
+        "eventUrl": "https://wl.seetickets.us/event/the-loved-ones-latest-hits-record-release/707499?afflky=TheChapel",
+        "kind": "event-artwork",
+        "checkedOn": "2026-10-10"
+      }
+    },
+    {
+      "addedDateProvenance": "legacy-batch",
+      "ageRestriction": "18+",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        571140342,
+        1191652833
+      ],
+      "createdAtEpochMs": 1784289600000,
+      "date": "2027-01-08",
+      "dateEpochMs": 1799409600000,
+      "firstImportRunId": null,
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790381132084,
+      "headlinerArtistId": 571140342,
+      "id": 284381709,
+      "isFree": false,
+      "priceMax": 34.05,
+      "priceMin": 34.05,
+      "provenanceConflicts": [
+        {
+          "detectedAtEpochMs": 1790381132084,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": 1799431200000,
+          "field": "startTimeEpochMs",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": 1799470800000,
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1790381132084,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": "legacy-wall-clock",
+          "field": "timeBasis",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": "instant",
+          "reason": "source-update"
+        }
+      ],
+      "slug": "2027-01-08-com-truise-the-independent",
+      "sourceLineNumber": 1020,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:e950c73a70efe20a",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790381132084,
+          "firstSeenRunId": "steveslist-v2-fc127bf4aa8b39becb09f32b5bb15b3ac152f5fc9f7eb72c3582c430675b287f",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 515101024,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1799470800000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790381132084,
+      "venueId": 515101024,
+      "venueType": "club",
+      "poster": {
+        "imageUrl": "https://i.ticketweb.com/i/00/12/96/14/24_Edp.jpg?v=7",
+        "eventUrl": "https://www.theindependentsf.com/tm-event/com-truise-b2b-matthew-dear/",
+        "kind": "event-artwork",
+        "checkedOn": "2026-10-10"
+      }
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        2134784261,
+        1500327557,
+        1964436370,
+        304875072
+      ],
+      "createdAtEpochMs": 1789172046956,
+      "date": "2027-01-08",
+      "dateEpochMs": 1799409600000,
+      "firstImportRunId": "steveslist-v2-72eb54f290fa4257fec91a9aecf159e52fa9a8eef90433c80b660a3c6af21698",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1789172046956,
+      "headlinerArtistId": 2134784261,
+      "id": 56539763,
+      "isFree": false,
+      "priceMax": 28,
+      "priceMin": 25,
+      "provenanceConflicts": [],
+      "slug": "2027-01-08-western-standard-time-ska-orchestra-the-chapel",
+      "sourceLineNumber": 1019,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:ad73140661648e85",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1789172046956,
+          "firstSeenRunId": "steveslist-v2-72eb54f290fa4257fec91a9aecf159e52fa9a8eef90433c80b660a3c6af21698",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 680116887,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1799470800000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1789172046956,
+      "venueId": 680116887,
+      "venueType": "club",
+      "poster": {
+        "imageUrl": "https://prod-images.seetickets.us/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiM2I4NzIzMGMtMDczYS00MjE0LThhNGMtMWU4ZjFkMTJmOTIzIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo2MDB9LCJqcGVnIjp7InF1YWxpdHkiOjYwfSwicG5nIjp7ImNvbXByZXNzaW9uTGV2ZWwiOjksInF1YWxpdHkiOjYwfSwid2VicCI6eyJxdWFsaXR5Ijo2MH19fQ==",
+        "eventUrl": "https://wl.seetickets.us/event/western-standard-time-ska-orchestra-ft-karina-denike-nofx/705024?afflky=TheChapel",
+        "kind": "event-artwork",
+        "checkedOn": "2026-10-10"
+      }
+    },
+    {
+      "addedDateProvenance": "legacy-batch",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1961924816
+      ],
+      "createdAtEpochMs": 1778241600000,
+      "date": "2027-01-09",
+      "dateEpochMs": 1799496000000,
+      "firstImportRunId": null,
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790381132084,
+      "headlinerArtistId": 1961924816,
+      "id": 2113417285,
+      "isFree": false,
+      "notes": "sold out",
+      "priceMax": 30,
+      "priceMin": 25,
+      "provenanceConflicts": [
+        {
+          "detectedAtEpochMs": 1790381132084,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": 1799542800000,
+          "field": "startTimeEpochMs",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": 1799553600000,
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1790381132084,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": "legacy-wall-clock",
+          "field": "timeBasis",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": "instant",
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1791595464839,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": "undefined",
+          "field": "notes",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": "sold out",
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1791595464839,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": "confirmed",
+          "field": "status",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": "sold-out",
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1791595464839,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": [],
+          "field": "tags",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": [
+            "sold-out"
+          ],
+          "reason": "source-update"
+        }
+      ],
+      "slug": "2027-01-09-anna-von-hausswolff-the-great-american-music-hall",
+      "sourceLineNumber": 1022,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:faa97d538d9cc8af",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790381132084,
+          "firstSeenRunId": "steveslist-v2-fc127bf4aa8b39becb09f32b5bb15b3ac152f5fc9f7eb72c3582c430675b287f",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 463728167,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1799553600000,
+      "status": "sold-out",
+      "tags": [
+        "sold-out"
+      ],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1791595464839,
+      "venueId": 463728167,
+      "venueType": "major",
+      "poster": {
+        "imageUrl": "https://prod-images.seetickets.us/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiOTYwNmYwNTktMjM0Zi00MDRkLThmMTEtMTNmYWNlNDkzZGRlIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo2MDB9LCJqcGVnIjp7InF1YWxpdHkiOjYwfSwicG5nIjp7ImNvbXByZXNzaW9uTGV2ZWwiOjksInF1YWxpdHkiOjYwfSwid2VicCI6eyJxdWFsaXR5Ijo2MH19fQ==",
+        "eventUrl": "https://wl.seetickets.us/event/anna-von-hausswolff/683672?afflky=GreatAmericanMusicHall",
+        "kind": "event-artwork",
+        "checkedOn": "2026-10-10"
+      }
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        41564619,
+        1971341431
+      ],
+      "createdAtEpochMs": 1790985835628,
+      "date": "2027-01-09",
+      "dateEpochMs": 1799496000000,
+      "firstImportRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790985835628,
+      "headlinerArtistId": 41564619,
+      "id": 1427096274,
+      "isFree": false,
+      "priceMax": 35,
+      "priceMin": 32,
+      "provenanceConflicts": [],
+      "slug": "2027-01-09-swirlies-the-chapel",
+      "sourceLineNumber": 1021,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:6303c0cd0a4b37c7",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790985835628,
+          "firstSeenRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 680116887,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1799553600000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790985835628,
+      "venueId": 680116887,
+      "venueType": "club",
+      "poster": {
+        "imageUrl": "https://prod-images.seetickets.us/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiODhjYTNhZGEtMGYwOS00MjQ3LWE0NTYtYmNhZGJhY2MyNDUxIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo2MDB9LCJqcGVnIjp7InF1YWxpdHkiOjYwfSwicG5nIjp7ImNvbXByZXNzaW9uTGV2ZWwiOjksInF1YWxpdHkiOjYwfSwid2VicCI6eyJxdWFsaXR5Ijo2MH19fQ==",
+        "eventUrl": "https://wl.seetickets.us/event/swirlies/706410?afflky=TheChapel",
+        "kind": "event-artwork",
+        "checkedOn": "2026-10-10"
+      }
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        2032935207,
+        727706393
+      ],
+      "createdAtEpochMs": 1790985835628,
+      "date": "2027-01-10",
+      "dateEpochMs": 1799582400000,
+      "firstImportRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790985835628,
+      "headlinerArtistId": 2032935207,
+      "id": 337643018,
+      "isFree": false,
+      "notes": "$35 seated",
+      "priceMax": 25,
+      "priceMin": 25,
+      "provenanceConflicts": [],
+      "slug": "2027-01-10-nora-brown-the-chapel",
+      "sourceLineNumber": 1023,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:e0e3842dd2621bee",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790985835628,
+          "firstSeenRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 680116887,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1799640000000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790985835628,
+      "venueId": 680116887,
+      "venueType": "club",
+      "poster": {
+        "imageUrl": "https://prod-images.seetickets.us/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiY2RkMjBjMDEtYjhhMy00N2RmLWFkNjctNDk5YzEyZDViMzFhIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo2MDB9LCJqcGVnIjp7InF1YWxpdHkiOjYwfSwicG5nIjp7ImNvbXByZXNzaW9uTGV2ZWwiOjksInF1YWxpdHkiOjYwfSwid2VicCI6eyJxdWFsaXR5Ijo2MH19fQ==",
+        "eventUrl": "https://wl.seetickets.us/event/nora-brown-with-stephanie-coleman/706553?afflky=TheChapel",
+        "kind": "event-artwork",
+        "checkedOn": "2026-10-10"
+      }
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1828663685,
+        108110531
+      ],
+      "createdAtEpochMs": 1789777368000,
+      "date": "2027-01-14",
+      "dateEpochMs": 1799928000000,
+      "firstImportRunId": "steveslist-v2-5d62e19ea17d8d9e9ae241866b063176a68d55992281b3c8f3f1f97e4910cbf9",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1789777368000,
+      "headlinerArtistId": 1828663685,
+      "id": 307448836,
+      "isFree": false,
+      "priceMax": 43,
+      "priceMin": 39.5,
+      "provenanceConflicts": [],
+      "slug": "2027-01-14-lsd-and-the-search-for-god-the-great-american-music-hall",
+      "sourceLineNumber": 1024,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:24fb3c48a8e16ef3",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1789777368000,
+          "firstSeenRunId": "steveslist-v2-5d62e19ea17d8d9e9ae241866b063176a68d55992281b3c8f3f1f97e4910cbf9",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 463728167,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1799985600000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1789777368000,
+      "venueId": 463728167,
+      "venueType": "major",
+      "poster": {
+        "imageUrl": "https://prod-images.seetickets.us/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiMDkzOTNhNDAtMzE0NS00MjI4LWE2NzctZjA5NGRjZGFiODVhIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo2MDB9LCJqcGVnIjp7InF1YWxpdHkiOjYwfSwicG5nIjp7ImNvbXByZXNzaW9uTGV2ZWwiOjksInF1YWxpdHkiOjYwfSwid2VicCI6eyJxdWFsaXR5Ijo2MH19fQ==",
+        "eventUrl": "https://wl.seetickets.us/event/lsd-and-the-search-for-god/704583?afflky=GreatAmericanMusicHall",
+        "kind": "event-artwork",
+        "checkedOn": "2026-10-10"
+      }
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        446381968
+      ],
+      "createdAtEpochMs": 1790985835628,
+      "date": "2027-01-14",
+      "dateEpochMs": 1799928000000,
+      "firstImportRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790985835628,
+      "headlinerArtistId": 446381968,
+      "id": 845533222,
+      "isFree": false,
+      "notes": "under 16 with adult",
+      "priceMax": 36.15,
+      "priceMin": 36.15,
+      "provenanceConflicts": [],
+      "slug": "2027-01-14-peter-antoniou-the-uptown-theater",
+      "sourceLineNumber": 1025,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:c5e5c49447e6b164",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790985835628,
+          "firstSeenRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1711400117,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1799985600000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790985835628,
+      "venueId": 1711400117,
+      "venueType": "major"
+    },
+    {
+      "addedDateProvenance": "legacy-batch",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1236040503,
+        1234344847
+      ],
+      "createdAtEpochMs": 1778241600000,
+      "date": "2027-01-15",
+      "dateEpochMs": 1800014400000,
+      "firstImportRunId": null,
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790381132084,
+      "headlinerArtistId": 1236040503,
+      "id": 1990606045,
+      "isFree": false,
+      "notes": "sold out",
+      "priceMax": 40,
+      "priceMin": 40,
+      "provenanceConflicts": [
+        {
+          "detectedAtEpochMs": 1790381132084,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": 1800115200000,
+          "field": "startTimeEpochMs",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": 1800072000000,
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1790381132084,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": "legacy-wall-clock",
+          "field": "timeBasis",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": "instant",
+          "reason": "source-update"
+        }
+      ],
+      "slug": "2027-01-15-book-of-love-the-chapel",
+      "sourceLineNumber": 1026,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:c6449f92e80a3c26",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790381132084,
+          "firstSeenRunId": "steveslist-v2-fc127bf4aa8b39becb09f32b5bb15b3ac152f5fc9f7eb72c3582c430675b287f",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 680116887,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1800072000000,
+      "status": "sold-out",
+      "tags": [
+        "sold-out"
+      ],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790381132084,
+      "venueId": 680116887,
+      "venueType": "club",
+      "poster": {
+        "imageUrl": "https://prod-images.seetickets.us/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiYmY5NmE3Y2ItNTBlNS00ODJmLTg5NDItZjExNDczZWNiMTBiIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo2MDB9LCJqcGVnIjp7InF1YWxpdHkiOjYwfSwicG5nIjp7ImNvbXByZXNzaW9uTGV2ZWwiOjksInF1YWxpdHkiOjYwfSwid2VicCI6eyJxdWFsaXR5Ijo2MH19fQ==",
+        "eventUrl": "https://wl.seetickets.us/event/book-of-love-40th-anniversary-tour/689091?afflky=TheChapel",
+        "kind": "event-artwork",
+        "checkedOn": "2026-10-10"
+      }
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "18+",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1971326822
+      ],
+      "createdAtEpochMs": 1788566700000,
+      "date": "2027-01-15",
+      "dateEpochMs": 1800014400000,
+      "firstImportRunId": "steveslist-v2-ff083fa277163b7c1c14d780f4d4986e14a22b8485c03915d669cf83b93b1bd8",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1788566700000,
+      "headlinerArtistId": 1971326822,
+      "id": 10669019,
+      "isFree": false,
+      "notes": "$118.40 2 day pass",
+      "priceMax": 64.75,
+      "priceMin": 64.75,
+      "provenanceConflicts": [],
+      "slug": "2027-01-15-sts9-the-castro",
+      "sourceLineNumber": 1030,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:b5cc613ab0929b85",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1788566700000,
+          "firstSeenRunId": "steveslist-v2-ff083fa277163b7c1c14d780f4d4986e14a22b8485c03915d669cf83b93b1bd8",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1383208152,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1800072000000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1788566700000,
+      "venueId": 1383208152,
+      "venueType": "major",
+      "poster": {
+        "imageUrl": "https://thecastro.com/wp-content/uploads/2026/08/1024_STS9.jpg",
+        "eventUrl": "https://thecastro.com/events/sts9-270115",
+        "kind": "event-artwork",
+        "checkedOn": "2026-10-10"
+      }
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        970241076,
+        1333749409
+      ],
+      "createdAtEpochMs": 1790381132084,
+      "date": "2027-01-15",
+      "dateEpochMs": 1800014400000,
+      "firstImportRunId": "steveslist-v2-fc127bf4aa8b39becb09f32b5bb15b3ac152f5fc9f7eb72c3582c430675b287f",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790381132084,
+      "headlinerArtistId": 970241076,
+      "id": 2062186925,
+      "isFree": false,
+      "priceMax": 25,
+      "priceMin": 20,
+      "provenanceConflicts": [],
+      "slug": "2027-01-15-seb-lowe-rickshaw-stop",
+      "sourceLineNumber": 1027,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:cda5bc666f3a5646",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790381132084,
+          "firstSeenRunId": "steveslist-v2-fc127bf4aa8b39becb09f32b5bb15b3ac152f5fc9f7eb72c3582c430675b287f",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 31041890,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1800075600000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790381132084,
+      "venueId": 31041890,
+      "venueType": "club"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "21+",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        2115984600,
+        1652880344
+      ],
+      "createdAtEpochMs": 1790381132084,
+      "date": "2027-01-15",
+      "dateEpochMs": 1800014400000,
+      "firstImportRunId": "steveslist-v2-fc127bf4aa8b39becb09f32b5bb15b3ac152f5fc9f7eb72c3582c430675b287f",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790381132084,
+      "headlinerArtistId": 2115984600,
+      "id": 1676540233,
+      "isFree": false,
+      "priceMax": 50.49,
+      "priceMin": 50.49,
+      "provenanceConflicts": [],
+      "slug": "2027-01-15-sister-nancy-the-independent",
+      "sourceLineNumber": 1031,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:facb9b1ece632b32",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790381132084,
+          "firstSeenRunId": "steveslist-v2-fc127bf4aa8b39becb09f32b5bb15b3ac152f5fc9f7eb72c3582c430675b287f",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 515101024,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1800075600000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790381132084,
+      "venueId": 515101024,
+      "venueType": "club",
+      "poster": {
+        "imageUrl": "https://i.ticketweb.com/i/00/13/05/32/14_Edp.jpg?v=7",
+        "eventUrl": "https://www.theindependentsf.com/tm-event/sister-nancy-the-steady-rock-band/",
+        "kind": "event-artwork",
+        "checkedOn": "2026-10-10"
+      }
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "18+",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        629139570
+      ],
+      "createdAtEpochMs": 1790985835628,
+      "date": "2027-01-15",
+      "dateEpochMs": 1800014400000,
+      "firstImportRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790985835628,
+      "headlinerArtistId": 629139570,
+      "id": 209457424,
+      "isFree": false,
+      "provenanceConflicts": [],
+      "slug": "2027-01-15-mph-the-regency-ballroom",
+      "sourceLineNumber": 1029,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:fa6c5d58dd794e2d",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790985835628,
+          "firstSeenRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 2133080253,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1800073800000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790985835628,
+      "venueId": 2133080253,
+      "venueType": "major",
+      "poster": {
+        "imageUrl": "https://images.discovery-prod.axs.com/2026/09/mph-y-san-francisco-forever-tickets_01-15-27_86_6abaae27e39f2.jpg",
+        "eventUrl": "https://www.axs.com/events/1629410/mph-tickets",
+        "kind": "event-artwork",
+        "checkedOn": "2026-10-10"
+      }
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1121989239
+      ],
+      "createdAtEpochMs": 1791595464839,
+      "date": "2027-01-15",
+      "dateEpochMs": 1800014400000,
+      "firstImportRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1791595464839,
+      "headlinerArtistId": 1121989239,
+      "id": 1211927921,
+      "isFree": false,
+      "notes": "$40 2 day",
+      "priceMax": 39,
+      "priceMin": 20,
+      "provenanceConflicts": [],
+      "slug": "2027-01-15-the-first-church-of-the-sacred-silversexual-great-american-music-hall",
+      "sourceLineNumber": 1028,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:1e8f920248d13444",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1791595464839,
+          "firstSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 463728167,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1800077400000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1791595464839,
+      "venueId": 463728167,
+      "venueType": "major",
+      "poster": {
+        "imageUrl": "https://prod-images.seetickets.us/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiNDhiOWJjZDUtNDNiNy00NmZiLWIzYmQtMDhiNWY2NGJlMjg4IiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo2MDB9LCJqcGVnIjp7InF1YWxpdHkiOjYwfSwicG5nIjp7ImNvbXByZXNzaW9uTGV2ZWwiOjksInF1YWxpdHkiOjYwfSwid2VicCI6eyJxdWFsaXR5Ijo2MH19fQ==",
+        "eventUrl": "https://wl.seetickets.us/event/the-16th-annual-bowie-bash/707829?afflky=GreatAmericanMusicHall",
+        "kind": "event-artwork",
+        "checkedOn": "2026-10-10"
+      }
+    },
+    {
+      "addedDateProvenance": "legacy-batch",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1236040503,
+        257306668
+      ],
+      "createdAtEpochMs": 1778241600000,
+      "date": "2027-01-16",
+      "dateEpochMs": 1800100800000,
+      "firstImportRunId": null,
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790381132084,
+      "headlinerArtistId": 1236040503,
+      "id": 2093010338,
+      "isFree": false,
+      "notes": "sold out",
+      "priceMax": 40,
+      "priceMin": 40,
+      "provenanceConflicts": [
+        {
+          "detectedAtEpochMs": 1790381132084,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": "undefined",
+          "field": "notes",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": "sold out",
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1790381132084,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": 1800201600000,
+          "field": "startTimeEpochMs",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": 1800158400000,
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1790381132084,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": "confirmed",
+          "field": "status",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": "sold-out",
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1790381132084,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": [],
+          "field": "tags",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": [
+            "sold-out"
+          ],
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1790381132084,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": "legacy-wall-clock",
+          "field": "timeBasis",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": "instant",
+          "reason": "source-update"
+        }
+      ],
+      "slug": "2027-01-16-book-of-love-the-chapel",
+      "sourceLineNumber": 1033,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:7cc68eaa653d3e57",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790381132084,
+          "firstSeenRunId": "steveslist-v2-fc127bf4aa8b39becb09f32b5bb15b3ac152f5fc9f7eb72c3582c430675b287f",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 680116887,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1800158400000,
+      "status": "sold-out",
+      "tags": [
+        "sold-out"
+      ],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790381132084,
+      "venueId": 680116887,
+      "venueType": "club",
+      "poster": {
+        "imageUrl": "https://prod-images.seetickets.us/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiYmY5NmE3Y2ItNTBlNS00ODJmLTg5NDItZjExNDczZWNiMTBiIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo2MDB9LCJqcGVnIjp7InF1YWxpdHkiOjYwfSwicG5nIjp7ImNvbXByZXNzaW9uTGV2ZWwiOjksInF1YWxpdHkiOjYwfSwid2VicCI6eyJxdWFsaXR5Ijo2MH19fQ==",
+        "eventUrl": "https://wl.seetickets.us/event/book-of-love-40th-anniversary-tour/691276?afflky=TheChapel",
+        "kind": "event-artwork",
+        "checkedOn": "2026-10-10"
+      }
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "18+",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1971326822
+      ],
+      "createdAtEpochMs": 1788566700000,
+      "date": "2027-01-16",
+      "dateEpochMs": 1800100800000,
+      "firstImportRunId": "steveslist-v2-ff083fa277163b7c1c14d780f4d4986e14a22b8485c03915d669cf83b93b1bd8",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1788566700000,
+      "headlinerArtistId": 1971326822,
+      "id": 282733988,
+      "isFree": false,
+      "notes": "$118.40 2 day pass",
+      "priceMax": 64.75,
+      "priceMin": 64.75,
+      "provenanceConflicts": [],
+      "slug": "2027-01-16-sts9-the-castro",
+      "sourceLineNumber": 1035,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:6660ecadeca2098a",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1788566700000,
+          "firstSeenRunId": "steveslist-v2-ff083fa277163b7c1c14d780f4d4986e14a22b8485c03915d669cf83b93b1bd8",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1383208152,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1800158400000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1788566700000,
+      "venueId": 1383208152,
+      "venueType": "major"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        361436697
+      ],
+      "createdAtEpochMs": 1790985835628,
+      "date": "2027-01-16",
+      "dateEpochMs": 1800100800000,
+      "firstImportRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790985835628,
+      "headlinerArtistId": 361436697,
+      "id": 1627753507,
+      "isFree": false,
+      "notes": "fully seated",
+      "provenanceConflicts": [],
+      "slug": "2027-01-16-arturo-vaca-the-cornerstone",
+      "sourceLineNumber": 1032,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:9077dbee3b877c85",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790985835628,
+          "firstSeenRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1393740940,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1800154800000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790985835628,
+      "venueId": 1393740940,
+      "venueType": "club"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1121989239
+      ],
+      "createdAtEpochMs": 1791595464839,
+      "date": "2027-01-16",
+      "dateEpochMs": 1800100800000,
+      "firstImportRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1791595464839,
+      "headlinerArtistId": 1121989239,
+      "id": 1820004784,
+      "isFree": false,
+      "notes": "$40 2 day",
+      "priceMax": 39,
+      "priceMin": 20,
+      "provenanceConflicts": [],
+      "slug": "2027-01-16-the-first-church-of-the-sacred-silversexual-great-american-music-hall",
+      "sourceLineNumber": 1034,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:b1078bb2ffffaaf9",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1791595464839,
+          "firstSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 463728167,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1800163800000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1791595464839,
+      "venueId": 463728167,
+      "venueType": "major",
+      "poster": {
+        "imageUrl": "https://prod-images.seetickets.us/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiZGY1OGM0ZGQtMTA1ZS00Y2JhLTlmZGEtNDA2NzBmZDE5ZmMxIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo2MDB9LCJqcGVnIjp7InF1YWxpdHkiOjYwfSwicG5nIjp7ImNvbXByZXNzaW9uTGV2ZWwiOjksInF1YWxpdHkiOjYwfSwid2VicCI6eyJxdWFsaXR5Ijo2MH19fQ==",
+        "eventUrl": "https://wl.seetickets.us/event/the-16th-annual-bowie-bash/707831?afflky=GreatAmericanMusicHall",
+        "kind": "event-artwork",
+        "checkedOn": "2026-10-10"
+      }
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        203490783
+      ],
+      "createdAtEpochMs": 1788566700000,
+      "date": "2027-01-17",
+      "dateEpochMs": 1800187200000,
+      "firstImportRunId": "steveslist-v2-ff083fa277163b7c1c14d780f4d4986e14a22b8485c03915d669cf83b93b1bd8",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1788566700000,
+      "headlinerArtistId": 203490783,
+      "id": 618156064,
+      "isFree": false,
+      "notes": "must purchase with Castro Teater tickets",
+      "provenanceConflicts": [],
+      "slug": "2027-01-17-sts9-rave-spell-set-the-independent",
+      "sourceLineNumber": 1037,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:1beaf8c41ca5edd8",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1788566700000,
+          "firstSeenRunId": "steveslist-v2-ff083fa277163b7c1c14d780f4d4986e14a22b8485c03915d669cf83b93b1bd8",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 515101024,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1788566700000,
+      "venueId": 515101024,
+      "venueType": "club"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1971123036
+      ],
+      "createdAtEpochMs": 1790985835628,
+      "date": "2027-01-17",
+      "dateEpochMs": 1800187200000,
+      "firstImportRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790985835628,
+      "headlinerArtistId": 1971123036,
+      "id": 385500743,
+      "isFree": false,
+      "provenanceConflicts": [],
+      "slug": "2027-01-17-zoso-the-cornerstone",
+      "sourceLineNumber": 1036,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:815a348de2dde731",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790985835628,
+          "firstSeenRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1393740940,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1800244800000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790985835628,
+      "venueId": 1393740940,
+      "venueType": "club"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        382690533
+      ],
+      "createdAtEpochMs": 1791595464839,
+      "date": "2027-01-18",
+      "dateEpochMs": 1800273600000,
+      "firstImportRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1791595464839,
+      "headlinerArtistId": 382690533,
+      "id": 2115612837,
+      "isFree": false,
+      "priceMax": 29.79,
+      "priceMin": 29.79,
+      "provenanceConflicts": [],
+      "slug": "2027-01-18-tara-clerkin-trio-the-rickshaw-stop",
+      "sourceLineNumber": 1038,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:12a3c730bc61f901",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1791595464839,
+          "firstSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 31041890,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1800331200000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1791595464839,
+      "venueId": 31041890,
+      "venueType": "club"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        163181115
+      ],
+      "createdAtEpochMs": 1790985835628,
+      "date": "2027-01-19",
+      "dateEpochMs": 1800360000000,
+      "firstImportRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790985835628,
+      "headlinerArtistId": 163181115,
+      "id": 1140419873,
+      "isFree": false,
+      "priceMax": 29.5,
+      "priceMin": 23.5,
+      "provenanceConflicts": [],
+      "slug": "2027-01-19-true-widow-the-great-american-music-hall",
+      "sourceLineNumber": 1039,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:e7286c77c34ce6e6",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790985835628,
+          "firstSeenRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 463728167,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1800417600000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790985835628,
+      "venueId": 463728167,
+      "venueType": "major",
+      "poster": {
+        "imageUrl": "https://prod-images.seetickets.us/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiMGQyN2IxZmQtZGExNC00ZGRiLWI0MTYtYTVjZTdhODdiMzQyIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo2MDB9LCJqcGVnIjp7InF1YWxpdHkiOjYwfSwicG5nIjp7ImNvbXByZXNzaW9uTGV2ZWwiOjksInF1YWxpdHkiOjYwfSwid2VicCI6eyJxdWFsaXR5Ijo2MH19fQ==",
+        "eventUrl": "https://wl.seetickets.us/event/true-widow/707017?afflky=GreatAmericanMusicHall",
+        "kind": "event-artwork",
+        "checkedOn": "2026-10-10"
+      }
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        79656637
+      ],
+      "createdAtEpochMs": 1789777368000,
+      "date": "2027-01-20",
+      "dateEpochMs": 1800446400000,
+      "firstImportRunId": "steveslist-v2-5d62e19ea17d8d9e9ae241866b063176a68d55992281b3c8f3f1f97e4910cbf9",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1789777368000,
+      "headlinerArtistId": 79656637,
+      "id": 2112522702,
+      "isFree": false,
+      "priceMax": 55,
+      "priceMin": 55,
+      "provenanceConflicts": [],
+      "slug": "2027-01-20-dj-meredith-marks-the-castro",
+      "sourceLineNumber": 1236,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:e1b6bf706bcd6e5f",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1789777368000,
+          "firstSeenRunId": "steveslist-v2-5d62e19ea17d8d9e9ae241866b063176a68d55992281b3c8f3f1f97e4910cbf9",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1789777368000,
+          "lastSeenRunId": "steveslist-v2-5d62e19ea17d8d9e9ae241866b063176a68d55992281b3c8f3f1f97e4910cbf9",
+          "originalVenueId": 1383208152,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1800504000000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1789777368000,
+      "venueId": 1383208152,
+      "venueType": "major",
+      "poster": {
+        "imageUrl": "https://thecastro.com/wp-content/uploads/2026/09/1024_MeredithMarks.jpg",
+        "eventUrl": "https://thecastro.com/events/dj-meredith-marks-270120",
+        "kind": "event-artwork",
+        "checkedOn": "2026-10-10"
+      }
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        79656619
+      ],
+      "createdAtEpochMs": 1790381132084,
+      "date": "2027-01-20",
+      "dateEpochMs": 1800446400000,
+      "firstImportRunId": "steveslist-v2-fc127bf4aa8b39becb09f32b5bb15b3ac152f5fc9f7eb72c3582c430675b287f",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790381132084,
+      "headlinerArtistId": 79656619,
+      "id": 876629636,
+      "isFree": false,
+      "priceMax": 55,
+      "priceMin": 55,
+      "provenanceConflicts": [
+        {
+          "detectedAtEpochMs": 1790985835628,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": [
+            79656619,
+            570874592
+          ],
+          "field": "artistIds",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": [
+            79656619
+          ],
+          "reason": "source-update"
+        }
+      ],
+      "slug": "2027-01-20-dj-meredith-marka-the-castro",
+      "sourceLineNumber": 1040,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:ebdb71950c7ef984",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790381132084,
+          "firstSeenRunId": "steveslist-v2-fc127bf4aa8b39becb09f32b5bb15b3ac152f5fc9f7eb72c3582c430675b287f",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1383208152,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1800504000000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790985835628,
+      "venueId": 1383208152,
+      "venueType": "major"
+    },
+    {
+      "addedDateProvenance": "legacy-batch",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1460736273,
+        1971361560
+      ],
+      "createdAtEpochMs": 1785499200000,
+      "date": "2027-01-21",
+      "dateEpochMs": 1800532800000,
+      "firstImportRunId": null,
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790381132084,
+      "headlinerArtistId": 1460736273,
+      "id": 966750323,
+      "isFree": false,
+      "notes": "under 16 with adult",
+      "priceMax": 67.1,
+      "priceMin": 67.1,
+      "provenanceConflicts": [
+        {
+          "detectedAtEpochMs": 1790381132084,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": 1800532800000,
+          "field": "startTimeEpochMs",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": 1800590400000,
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1790381132084,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": "legacy-wall-clock",
+          "field": "timeBasis",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": "instant",
+          "reason": "source-update"
+        }
+      ],
+      "slug": "2027-01-21-beth-hart-uptown-theater",
+      "sourceLineNumber": 1041,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:73fe7c6fc6103efc",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790381132084,
+          "firstSeenRunId": "steveslist-v2-fc127bf4aa8b39becb09f32b5bb15b3ac152f5fc9f7eb72c3582c430675b287f",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1711400117,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1800590400000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790381132084,
+      "venueId": 1711400117,
+      "venueType": "major"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1580223109
+      ],
+      "createdAtEpochMs": 1790985835628,
+      "date": "2027-01-22",
+      "dateEpochMs": 1800619200000,
+      "firstImportRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790985835628,
+      "headlinerArtistId": 1580223109,
+      "id": 1159398718,
+      "isFree": false,
+      "notes": "under 16 with adult",
+      "provenanceConflicts": [],
+      "slug": "2027-01-22-our-house-tribute-the-uptown-theater",
+      "sourceLineNumber": 1044,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:57ffdad383f2faf5",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790985835628,
+          "firstSeenRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1711400117,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1800676800000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790985835628,
+      "venueId": 1711400117,
+      "venueType": "major"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        854904833
+      ],
+      "createdAtEpochMs": 1791595464839,
+      "date": "2027-01-22",
+      "dateEpochMs": 1800619200000,
+      "firstImportRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1791595464839,
+      "headlinerArtistId": 854904833,
+      "id": 1212926772,
+      "isFree": false,
+      "priceMax": 99,
+      "priceMin": 56.25,
+      "provenanceConflicts": [],
+      "slug": "2027-01-22-fakemink-the-fox-theater",
+      "sourceLineNumber": 1042,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:81e1a7a15ae72025",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1791595464839,
+          "firstSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 631118593,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1800676800000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1791595464839,
+      "venueId": 631118593,
+      "venueType": "major"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        947207609
+      ],
+      "createdAtEpochMs": 1791595464839,
+      "date": "2027-01-22",
+      "dateEpochMs": 1800619200000,
+      "firstImportRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1791595464839,
+      "headlinerArtistId": 947207609,
+      "id": 1497834345,
+      "isFree": false,
+      "provenanceConflicts": [],
+      "slug": "2027-01-22-fruition-the-chapel",
+      "sourceLineNumber": 1043,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:40e7bdf27acd339e",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1791595464839,
+          "firstSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 680116887,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1800680400000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1791595464839,
+      "venueId": 680116887,
+      "venueType": "club",
+      "poster": {
+        "imageUrl": "https://prod-images.seetickets.us/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiZTU3ZjFhZjQtOTMxZC00OWMxLTk1YzktMTBiNGI3MWNiM2MyIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo2MDB9LCJqcGVnIjp7InF1YWxpdHkiOjYwfSwicG5nIjp7ImNvbXByZXNzaW9uTGV2ZWwiOjksInF1YWxpdHkiOjYwfSwid2VicCI6eyJxdWFsaXR5Ijo2MH19fQ==",
+        "eventUrl": "https://wl.seetickets.us/event/fruition/703540?afflky=TheChapel",
+        "kind": "event-artwork",
+        "checkedOn": "2026-10-10"
+      }
+    },
+    {
+      "addedDateProvenance": "legacy-batch",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        566282897
+      ],
+      "createdAtEpochMs": 1784289600000,
+      "date": "2027-01-23",
+      "dateEpochMs": 1800705600000,
+      "firstImportRunId": null,
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790381132084,
+      "headlinerArtistId": 566282897,
+      "id": 501761858,
+      "isFree": false,
+      "priceMax": 28,
+      "priceMin": 24,
+      "provenanceConflicts": [
+        {
+          "detectedAtEpochMs": 1790381132084,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": 1800748800000,
+          "field": "startTimeEpochMs",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": 1800766800000,
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1790381132084,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": "legacy-wall-clock",
+          "field": "timeBasis",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": "instant",
+          "reason": "source-update"
+        }
+      ],
+      "slug": "2027-01-23-pete-floyd-tribute-the-chapel",
+      "sourceLineNumber": 1046,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:7b131696fbe7bf41",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790381132084,
+          "firstSeenRunId": "steveslist-v2-fc127bf4aa8b39becb09f32b5bb15b3ac152f5fc9f7eb72c3582c430675b287f",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 680116887,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1800766800000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790381132084,
+      "venueId": 680116887,
+      "venueType": "club"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1614955148
+      ],
+      "createdAtEpochMs": 1790985835628,
+      "date": "2027-01-23",
+      "dateEpochMs": 1800705600000,
+      "firstImportRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790985835628,
+      "headlinerArtistId": 1614955148,
+      "id": 122905062,
+      "isFree": false,
+      "provenanceConflicts": [],
+      "slug": "2027-01-23-don-carlos-the-cornerstone",
+      "sourceLineNumber": 1045,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:47ec41547a10bbdd",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790985835628,
+          "firstSeenRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1393740940,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1800766800000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790985835628,
+      "venueId": 1393740940,
+      "venueType": "club"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "21+",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1745387035
+      ],
+      "createdAtEpochMs": 1790985835628,
+      "date": "2027-01-23",
+      "dateEpochMs": 1800705600000,
+      "firstImportRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790985835628,
+      "headlinerArtistId": 1745387035,
+      "id": 844475155,
+      "isFree": false,
+      "priceMax": 26.94,
+      "priceMin": 26.94,
+      "provenanceConflicts": [],
+      "slug": "2027-01-23-late-for-the-train-hopmonk",
+      "sourceLineNumber": 1047,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:888e7d4847fe6f59",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790985835628,
+          "firstSeenRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 183693907,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1800763200000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790985835628,
+      "venueId": 183693907,
+      "venueType": "club"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "21+",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        947207609
+      ],
+      "createdAtEpochMs": 1791595464839,
+      "date": "2027-01-23",
+      "dateEpochMs": 1800705600000,
+      "firstImportRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1791595464839,
+      "headlinerArtistId": 947207609,
+      "id": 1024703169,
+      "isFree": false,
+      "provenanceConflicts": [],
+      "slug": "2027-01-23-fruition-felton-music-hall",
+      "sourceLineNumber": 1048,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:a30748b291969bd4",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1791595464839,
+          "firstSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 992774973,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1800759600000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1791595464839,
+      "venueId": 992774973,
+      "venueType": "major"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1517235615,
+        1875951065,
+        1610794594
+      ],
+      "createdAtEpochMs": 1791595464839,
+      "date": "2027-01-24",
+      "dateEpochMs": 1800792000000,
+      "firstImportRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1791595464839,
+      "headlinerArtistId": 1517235615,
+      "id": 1396594516,
+      "isFree": false,
+      "provenanceConflicts": [],
+      "slug": "2027-01-24-tesseract-the-fillmore",
+      "sourceLineNumber": 1049,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:2fd61db919b154f8",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1791595464839,
+          "firstSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1136597428,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1800846000000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1791595464839,
+      "venueId": 1136597428,
+      "venueType": "major"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "5+",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        2085305931
+      ],
+      "createdAtEpochMs": 1789777368000,
+      "date": "2027-01-26",
+      "dateEpochMs": 1800964800000,
+      "firstImportRunId": "steveslist-v2-5d62e19ea17d8d9e9ae241866b063176a68d55992281b3c8f3f1f97e4910cbf9",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1789777368000,
+      "headlinerArtistId": 2085305931,
+      "id": 1536053618,
+      "isFree": false,
+      "priceMax": 39.8,
+      "priceMin": 39.8,
+      "provenanceConflicts": [],
+      "slug": "2027-01-26-bad-suns-august-hall",
+      "sourceLineNumber": 1050,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:644c675a99d6be84",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1789777368000,
+          "firstSeenRunId": "steveslist-v2-5d62e19ea17d8d9e9ae241866b063176a68d55992281b3c8f3f1f97e4910cbf9",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 811075932,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1801022400000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1789777368000,
+      "venueId": 811075932,
+      "venueType": "major"
+    },
+    {
+      "addedDateProvenance": "legacy-batch",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        991372151
+      ],
+      "createdAtEpochMs": 1784289600000,
+      "date": "2027-01-27",
+      "dateEpochMs": 1801051200000,
+      "firstImportRunId": null,
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790381132084,
+      "headlinerArtistId": 991372151,
+      "id": 1293864265,
+      "isFree": false,
+      "priceMax": 48,
+      "priceMin": 48,
+      "provenanceConflicts": [
+        {
+          "detectedAtEpochMs": 1790381132084,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": 1801180800000,
+          "field": "startTimeEpochMs",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": 1801108800000,
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1790381132084,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": "legacy-wall-clock",
+          "field": "timeBasis",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": "instant",
+          "reason": "source-update"
+        }
+      ],
+      "slug": "2027-01-27-ibeyi-the-fillmore",
+      "sourceLineNumber": 1051,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:9ed1212e6e488f6b",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790381132084,
+          "firstSeenRunId": "steveslist-v2-fc127bf4aa8b39becb09f32b5bb15b3ac152f5fc9f7eb72c3582c430675b287f",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1136597428,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1801108800000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790381132084,
+      "venueId": 1136597428,
+      "venueType": "major"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "21+",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1044245562
+      ],
+      "createdAtEpochMs": 1790985835628,
+      "date": "2027-01-27",
+      "dateEpochMs": 1801051200000,
+      "firstImportRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790985835628,
+      "headlinerArtistId": 1044245562,
+      "id": 1851015496,
+      "isFree": false,
+      "notes": "$115.54 vip",
+      "priceMax": 37.82,
+      "priceMin": 37.82,
+      "provenanceConflicts": [],
+      "slug": "2027-01-27-satsang-hopmonk",
+      "sourceLineNumber": 1052,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:6f1b68d541f5ba3b",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790985835628,
+          "firstSeenRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1811398338,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1801108800000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790985835628,
+      "venueId": 1811398338,
+      "venueType": "club"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1686223948,
+        407146772
+      ],
+      "createdAtEpochMs": 1790985835628,
+      "date": "2027-01-27",
+      "dateEpochMs": 1801051200000,
+      "firstImportRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790985835628,
+      "headlinerArtistId": 1686223948,
+      "id": 1217149279,
+      "isFree": false,
+      "priceMax": 28.72,
+      "priceMin": 28.72,
+      "provenanceConflicts": [
+        {
+          "detectedAtEpochMs": 1791595464839,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": "undefined",
+          "field": "priceMax",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": 28.72,
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1791595464839,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": "undefined",
+          "field": "priceMin",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": 28.72,
+          "reason": "source-update"
+        }
+      ],
+      "slug": "2027-01-27-youth-fountain-the-catalyst",
+      "sourceLineNumber": 1053,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:e72f7a9a8e847671",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790985835628,
+          "firstSeenRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1080825327,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1801108800000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1791595464839,
+      "venueId": 1080825327,
+      "venueType": "major"
+    },
+    {
+      "addedDateProvenance": "legacy-batch",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1662822270,
+        2078714519,
+        847772459
+      ],
+      "createdAtEpochMs": 1784289600000,
+      "date": "2027-01-28",
+      "dateEpochMs": 1801137600000,
+      "firstImportRunId": null,
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1788566700000,
+      "headlinerArtistId": 1662822270,
+      "id": 109083181,
+      "isFree": false,
+      "provenanceConflicts": [
+        {
+          "detectedAtEpochMs": 1788566700000,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": 1801166400000,
+          "field": "startTimeEpochMs",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": 1801195200000,
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1788566700000,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": "legacy-wall-clock",
+          "field": "timeBasis",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": "instant",
+          "reason": "source-update"
+        }
+      ],
+      "slug": "2027-01-28-the-california-honeydrops-the-fillmore",
+      "sourceLineNumber": 1054,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:5659ed6bb2e35078",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1788566700000,
+          "firstSeenRunId": "steveslist-v2-ff083fa277163b7c1c14d780f4d4986e14a22b8485c03915d669cf83b93b1bd8",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1136597428,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1801195200000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1788566700000,
+      "venueId": 1136597428,
+      "venueType": "major"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1419969001,
+        1353691322,
+        635908216,
+        1441821298
+      ],
+      "createdAtEpochMs": 1790985835628,
+      "date": "2027-01-28",
+      "dateEpochMs": 1801137600000,
+      "firstImportRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790985835628,
+      "headlinerArtistId": 1419969001,
+      "id": 271770922,
+      "isFree": false,
+      "notes": "seated - words + music",
+      "priceMax": 36.01,
+      "priceMin": 36.01,
+      "provenanceConflicts": [],
+      "slug": "2027-01-28-laurie-lewis-hopmonk",
+      "sourceLineNumber": 1055,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:5e7678987df95235",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790985835628,
+          "firstSeenRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1811398338,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1801195200000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790985835628,
+      "venueId": 1811398338,
+      "venueType": "club"
+    },
+    {
+      "addedDateProvenance": "legacy-batch",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1662822270,
+        2078714519,
+        1260718863,
+        847772459
+      ],
+      "createdAtEpochMs": 1784289600000,
+      "date": "2027-01-29",
+      "dateEpochMs": 1801224000000,
+      "firstImportRunId": null,
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1788566700000,
+      "headlinerArtistId": 1662822270,
+      "id": 2119187022,
+      "isFree": false,
+      "provenanceConflicts": [
+        {
+          "detectedAtEpochMs": 1788566700000,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": 1801252800000,
+          "field": "startTimeEpochMs",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": 1801281600000,
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1788566700000,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": "legacy-wall-clock",
+          "field": "timeBasis",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": "instant",
+          "reason": "source-update"
+        }
+      ],
+      "slug": "2027-01-29-the-california-honeydrops-the-fillmore",
+      "sourceLineNumber": 1056,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:a5efd19a35f57d81",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1788566700000,
+          "firstSeenRunId": "steveslist-v2-ff083fa277163b7c1c14d780f4d4986e14a22b8485c03915d669cf83b93b1bd8",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1136597428,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1801281600000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1788566700000,
+      "venueId": 1136597428,
+      "venueType": "major"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        994979331
+      ],
+      "createdAtEpochMs": 1790985835628,
+      "date": "2027-01-29",
+      "dateEpochMs": 1801224000000,
+      "firstImportRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790985835628,
+      "headlinerArtistId": 994979331,
+      "id": 2028186983,
+      "isFree": false,
+      "notes": "under 16 with adult",
+      "provenanceConflicts": [],
+      "slug": "2027-01-29-pete-holmes-the-uptown-theater",
+      "sourceLineNumber": 1057,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:12715a1409b693e6",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790985835628,
+          "firstSeenRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1711400117,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1801281600000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790985835628,
+      "venueId": 1711400117,
+      "venueType": "major"
+    },
+    {
+      "addedDateProvenance": "legacy-batch",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1662822270,
+        2078714519,
+        847772459
+      ],
+      "createdAtEpochMs": 1784289600000,
+      "date": "2027-01-30",
+      "dateEpochMs": 1801310400000,
+      "firstImportRunId": null,
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1788566700000,
+      "headlinerArtistId": 1662822270,
+      "id": 903168732,
+      "isFree": false,
+      "provenanceConflicts": [
+        {
+          "detectedAtEpochMs": 1788566700000,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": 1801339200000,
+          "field": "startTimeEpochMs",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": 1801368000000,
+          "reason": "source-update"
+        },
+        {
+          "detectedAtEpochMs": 1788566700000,
+          "existingSource": "steveslist:steveslist",
+          "existingValue": "legacy-wall-clock",
+          "field": "timeBasis",
+          "incomingSource": "steveslist:steveslist",
+          "incomingValue": "instant",
+          "reason": "source-update"
+        }
+      ],
+      "slug": "2027-01-30-the-california-honeydrops-the-fillmore",
+      "sourceLineNumber": 1059,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:4979eaf30dc06ce5",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1788566700000,
+          "firstSeenRunId": "steveslist-v2-ff083fa277163b7c1c14d780f4d4986e14a22b8485c03915d669cf83b93b1bd8",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1136597428,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1801368000000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1788566700000,
+      "venueId": 1136597428,
+      "venueType": "major"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "all-ages",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1822211089
+      ],
+      "createdAtEpochMs": 1790985835628,
+      "date": "2027-01-30",
+      "dateEpochMs": 1801310400000,
+      "firstImportRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1790985835628,
+      "headlinerArtistId": 1822211089,
+      "id": 1472687809,
+      "isFree": false,
+      "provenanceConflicts": [],
+      "slug": "2027-01-30-madds-buckley-the-cornerstone",
+      "sourceLineNumber": 1058,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:313313fe24ee015f",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1790985835628,
+          "firstSeenRunId": "steveslist-v4-46c6f710d388e8d1d73414ff3b168da9f9f67fdd0e4094bf6d70ce4165443407",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1393740940,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1801368000000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1790985835628,
+      "venueId": 1393740940,
+      "venueType": "club"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "21+",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        771858134
+      ],
+      "createdAtEpochMs": 1791595464839,
+      "date": "2027-01-30",
+      "dateEpochMs": 1801310400000,
+      "firstImportRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1791595464839,
+      "headlinerArtistId": 771858134,
+      "id": 1220951688,
+      "isFree": false,
+      "provenanceConflicts": [],
+      "slug": "2027-01-30-keller-williams-moes-alley",
+      "sourceLineNumber": 1060,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:01964f53b374493e",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1791595464839,
+          "firstSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1002839764,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1801368000000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1791595464839,
+      "venueId": 1002839764,
+      "venueType": "club"
+    },
+    {
+      "addedDateProvenance": "observed",
+      "ageRestriction": "21+",
+      "announcedAtEpochMs": null,
+      "artistIds": [
+        1206400215
+      ],
+      "createdAtEpochMs": 1789777368000,
+      "date": "2027-01-31",
+      "dateEpochMs": 1801396800000,
+      "firstImportRunId": "steveslist-v2-5d62e19ea17d8d9e9ae241866b063176a68d55992281b3c8f3f1f97e4910cbf9",
+      "firstImportedBy": "steveslist",
+      "firstObservedAtEpochMs": 1789777368000,
+      "headlinerArtistId": 1206400215,
+      "id": 1784755669,
+      "isFree": false,
+      "priceMax": 24.72,
+      "priceMin": 24.72,
+      "provenanceConflicts": [],
+      "slug": "2027-01-31-elephant-stone-kilowatt",
+      "sourceLineNumber": 1061,
+      "sources": [
+        {
+          "canonicalUrl": null,
+          "contentHash": "fnv1a64:2a6a27ca1beee156",
+          "evidence": null,
+          "externalEventId": null,
+          "firstSeenAtEpochMs": 1789777368000,
+          "firstSeenRunId": "steveslist-v2-5d62e19ea17d8d9e9ae241866b063176a68d55992281b3c8f3f1f97e4910cbf9",
+          "kind": "steveslist",
+          "lastSeenAtEpochMs": 1791595464839,
+          "lastSeenRunId": "steveslist-v4-9836108df422f7b83ed8fbc02f1c52416fdd94a67503c0c51d1dd5d758fccc8f",
+          "originalVenueId": 1433810567,
+          "session": null,
+          "sourceId": "steveslist"
+        }
+      ],
+      "startTimeEpochMs": 1801450800000,
+      "status": "confirmed",
+      "tags": [],
+      "timeBasis": "instant",
+      "timezone": "America/Los_Angeles",
+      "updatedAtEpochMs": 1789777368000,
+      "venueId": 1433810567,
+      "venueType": "club",
+      "poster": {
+        "imageUrl": "https://dice-media.imgix.net/attachments/2026-08-28/6e8b95f3-5d2d-4708-8263-1e61bd33756d.jpg",
+        "eventUrl": "https://link.dice.fm/v2424cdc5951",
+        "kind": "event-artwork",
+        "checkedOn": "2026-10-10"
+      }
+    }
+  ]
+}

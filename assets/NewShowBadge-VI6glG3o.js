@@ -1,0 +1,1 @@
+import{j as s,f as d}from"./index-izFJyXyg.js";const l=({addedAtEpochMs:e,timeZone:a,className:t=""})=>s.jsx("span",{role:"img","aria-label":"Recently added",title:d(e,a)??"Recently added",className:`shrink-0 text-sm ${t}`,children:"🆕"});export{l as N};

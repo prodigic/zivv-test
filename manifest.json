@@ -1,0 +1,18 @@
+{
+  "name": "Zivv - Bay Area Punk Show Finder",
+  "short_name": "Zivv",
+  "description": "Discover punk and alternative music shows in the San Francisco Bay Area",
+  "theme_color": "#dc2626",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "scope": "/zivv-test/",
+  "start_url": "/zivv-test/",
+  "icons": [
+    {
+      "src": "/zivv-test/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

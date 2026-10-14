@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "purpose": "compiled-preview-only",
+  "sourceRepository": "prodigic/zivv",
+  "sourceCommit": "2b19e7ac7b02e981faf41fa00ce8cff588711406",
+  "basePath": "/zivv-test/",
+  "datasetVersion": "2026-10-14T05:37:12.803Z",
+  "manifestSha256": "b14d0c1700eab7c8d89d6d5f383241029bae358e725298f0c61867910f1b8d5a",
+  "files": [
+    {
+      "path": "404.html",
+      "size": 1130,
+      "sha256": "6442bda6c0624a3a96fe3de0ae92a09894348eac417c9648cfcd9c23eac0f946"
+    },
+    {
+      "path": "assets/AboutPage-CesHz3cI.js",
+      "size": 19525,
+      "sha256": "606914ba6b6c710458b38bd74a135f68d745b72549cf417e751dde716685237d"
+    },
+    {
+      "path": "assets/ArtistDetailPage-D6jEtFkD.js",
+      "size": 4278,
+      "sha256": "8d8faf041c57c341f73445c85ac590b02cb228216c5725905b7b4023dbd882ca"
+    },
+    {
+      "path": "assets/ArtistLinks-cuaTPop5.js",
+      "size": 5589,
+      "sha256": "efa964d749f6adaeb11cca59f7ceee1cdc9101cba3ef0b65c381a07f33f0fb70"
+    },
+    {
+      "path": "assets/ArtistsPage-s8S7lxIL.js",
+      "size": 9448,
+      "sha256": "502ef22c505e0605564ba0fbffa671cb0c8c1a45ce6fe1d03e9268d3f940888d"
+    },
+    {
+      "path": "assets/CalendarPage-CkLAcXyI.js",
+      "size": 8056,
+      "sha256": "0d98545e544ac83d1a69fd3b45ce86284805f3d6bf4d291f1f442ba397df0e83"
+    },
+    {
+      "path": "assets/DirectoryContent-B02iloKz.js",
+      "size": 425,
+      "sha256": "d91e8799606f2e16950dc7ea73f7dbd4f3d1b9bd8f88655412baa3ba9fade613"
+    },
+    {
+      "path": "assets/event-poster-DePNFa1J.js",
+      "size": 395,
+      "sha256": "9e9836e27f2b7be7270f3c5c89c8a44ff532d974ab0171e2a165d9a4e4f0e85e"
+    },
+    {
+      "path": "assets/EventDetailPage-4eq4sruz.css",
+      "size": 2535,
+      "sha256": "5714367ba1570020aea66dd4d97a7c7b20f4f7c758a00fc36582573c622079fb"
+    },
+    {
+      "path": "assets/EventDetailPage-CnAoykan.js",
+      "size": 14844,
+      "sha256": "8ebd4115233460bbbe10d2bf0521b31a4bcd5eb0c5ec036272fabcb2042bfc56"
+    },
+    {
+      "path": "assets/EventPosterLink-Ccjr555N.js",
+      "size": 2260,
+      "sha256": "12409ec881d643f0ac54becc444538daa4b2ce4f27471d5dff0d317b77168743"
+    },
+    {
+      "path": "assets/EventsPage-D4jwRpKQ.js",
+      "size": 5968,
+      "sha256": "6f900d5fd57307af8d3fb7089c4eb8f454e74a45195d9bb39052dc167e6d1c7e"
+    },
+    {
+      "path": "assets/HomePage-DOAquZfT.js",
+      "size": 1147,
+      "sha256": "2c7b1d77da0e660980cb4c8a820e4410c4ff6154dddf85c2934c8ccc41da77c8"
+    },
+    {
+      "path": "assets/index-C7KOygxo.css",
+      "size": 59602,
+      "sha256": "939576172396c2207b195e1a8eb220f6fe785934a253875e62e1e9e7cb7269d7"
+    },
+    {
+      "path": "assets/index-izFJyXyg.js",
+      "size": 354849,
+      "sha256": "08627daf6aaa8d0ec5f4cb16e56c73495928ef8440bcdfe4337874aec9e3fbfe"
+    },
+    {
+      "path": "assets/LocalArtistsPage-DScq2K59.js",
+      "size": 7035,
+      "sha256": "74c28f1f24255a0667f47e38ac4fb627e596fe8f4b08d26db1033af9bcfcd091"
+    },
+    {
+      "path": "assets/NewBadge-BEoX4s7w.js",
+      "size": 320,
+      "sha256": "f1762ec9e4826aaf7ff7ac34362dad9fea97afc5abc644e3bb328339b65e5ca1"
+    },
+    {
+      "path": "assets/NewEventsPage-CsvFxDq_.js",
+      "size": 9604,
+      "sha256": "fe53988c2e1e526445e6681f7fdeac85561f185a32445bc8c3e44d87d3be9d1c"
+    },
+    {
+      "path": "assets/NewShowBadge-VI6glG3o.js",
+      "size": 257,
+      "sha256": "c0212c0a8c166c62f709e3806233deb2b69806fbac9cc249ad814c90c84c4721"
+    },
+    {
+      "path": "assets/NewsletterPage-C0iIO4GA.js",
+      "size": 13025,
+      "sha256": "3fc03b611badb5e0ee53b53c0049311ea490a7f65be311b35d1ad8b733b81cb0"
+    },
+    {
+      "path": "assets/NotFoundPage-B3TawtZc.js",
+      "size": 1101,
+      "sha256": "dc8e9251f7172d24e826b67ca0880c25280197bce28c80bbc43bfd1f088f03f7"
+    },
+    {
+      "path": "assets/PriceWidget-Cef7OnH3.js",
+      "size": 869,
+      "sha256": "056b6f3a837046d67e0807199d654cc2f0cc51ad2503f0cd2f184fea1adcdfd0"
+    },
+    {
+      "path": "assets/VenueDetailPage-BMuQS-zR.js",
+      "size": 7678,
+      "sha256": "e55b975f13472d441eb25a158250c279dcb5159783cafcebef1b7ee80f4b9d9c"
+    },
+    {
+      "path": "assets/VenueNameLink-W62sZv8E.js",
+      "size": 1535,
+      "sha256": "e4f8fca2bc7674de9e0bc8c0c11a53508c9ab23ce2754f59e5c64d3edc6ab773"
+    },
+    {
+      "path": "assets/VenuesPage-Ck-Snuam.js",
+      "size": 11522,
+      "sha256": "fc3efaff2e78c9fc8a0f6ca066021fb8bbb337f4ddc75c166899bd559e71190b"
+    },
+    {
+      "path": "data/artists.json",
+      "size": 6052488,
+      "sha256": "ff786226a930fd24af195b3739a7055bc905c61da4471c25a4d4d85ae2ffdd5d"
+    },
+    {
+      "path": "data/events-2026-01.json",
+      "size": 2882,
+      "sha256": "5a61132989c5660b1e4ef2b93638991be657a5275270405834e4401c56fe3f55"
+    },
+    {
+      "path": "data/events-2026-04.json",
+      "size": 226468,
+      "sha256": "61385296a289084f52da3e4823b576a77e2815147ba516e2231d3ab6a7c36dea"
+    },
+    {
+      "path": "data/events-2026-05.json",
+      "size": 1025675,
+      "sha256": "281f2fd1ad09e87570f072f2cf805f9bc4c87c7aed53be569d5e8a980997c169"
+    },
+    {
+      "path": "data/events-2026-06.json",
+      "size": 793973,
+      "sha256": "703d6c958769a0ff12c4347ec6894ffc8736286672798ef946cb062c1c3701cb"
+    },
+    {
+      "path": "data/events-2026-07.json",
+      "size": 798794,
+      "sha256": "ad53d1446ad6454d7c9482d8e3df0489111850c8e507fe4bf4e6428f0115f29a"
+    },
+    {
+      "path": "data/events-2026-08.json",
+      "size": 897905,
+      "sha256": "8eed5524df65f499b9fdf34657c7ce0fdc86d1b4a3180b24dd5ceff0c8c428fc"
+    },
+    {
+      "path": "data/events-2026-09.json",
+      "size": 1108688,
+      "sha256": "a90414cda369ec2541c57211c4089b35cedb37e2f78e1f3e541909c485ecb177"
+    },
+    {
+      "path": "data/events-2026-10.json",
+      "size": 1636217,
+      "sha256": "15fd14315ec9dc07e0a79a4fe4c5c6e048c5fc1bf6a65b5d7f421d7b258f6f64"
+    },
+    {
+      "path": "data/events-2026-11.json",
+      "size": 783652,
+      "sha256": "d68372c7f5df7d3b0ccb11bfaed020ccf1b4057c1609b85477f05dc79309b2d3"
+    },
+    {
+      "path": "data/events-2026-12.json",
+      "size": 318974,
+      "sha256": "04625d739311535b358375192997ed420c48671201c920cf7078ae7d1e6d79dd"
+    },
+    {
+      "path": "data/events-2027-01.json",
+      "size": 95921,
+      "sha256": "05a56dc0fa7131fd7118989f910bae0659d71fb84b40b9c735c0b66f5c02d5f0"
+    },
+    {
+      "path": "data/events-2027-02.json",
+      "size": 87699,
+      "sha256": "1d1ac629ca7ede9cac16ffc6c422fecf6c9b54ae68755a66b28dbc4a427050e4"
+    },
+    {
+      "path": "data/events-2027-03.json",
+      "size": 51959,
+      "sha256": "e3f9341ffcc93a6c0a5bb6c3a72241f3b267a789c58a1139d50a3f61a8431e78"
+    },
+    {
+      "path": "data/events-2027-04.json",
+      "size": 39012,
+      "sha256": "63b86fa0f8808a4f183b48800eea1f00b82dbbafbf1112e085fc49782a18cd2b"
+    },
+    {
+      "path": "data/events-2027-05.json",
+      "size": 22363,
+      "sha256": "517a7db2cff8557149076cac5ca35f06bf1fb7854d2c82856fb0e0aed5566ccf"
+    },
+    {
+      "path": "data/events-2027-06.json",
+      "size": 5495,
+      "sha256": "b9000d46fef334802dfae0b27719162a67a7f7121bae2833c988afa005f9dd2a"
+    },
+    {
+      "path": "data/events-2027-07.json",
+      "size": 1804,
+      "sha256": "e417321e1dbf500cd53bbb197c0b5efb35fa8b15922f5c448317e722463398ea"
+    },
+    {
+      "path": "data/events-2027-08.json",
+      "size": 3515,
+      "sha256": "01d689f56b7193a73f70bb131d0874ee08e2d3aca30cbe4baa05c04f3f027b4a"
+    },
+    {
+      "path": "data/indexes.json",
+      "size": 1022664,
+      "sha256": "d5b9a4e650e69235abec2b0d2894e916e39ae6e84a00ab49b25c34d16752ce1a"
+    },
+    {
+      "path": "data/local-artist-exclude.json",
+      "size": 18167,
+      "sha256": "fd6cc1a3352b3ce3a38f3b2802356bdfffdad58c7c063e6471fed2d84a6562e2"
+    },
+    {
+      "path": "data/local-artists.json",
+      "size": 10420,
+      "sha256": "332eeb5384fc379e3f10a18891158b4abd9841cf93cdfd16e5a4f20041fa1806"
+    },
+    {
+      "path": "data/manifest.json",
+      "size": 11813,
+      "sha256": "b14d0c1700eab7c8d89d6d5f383241029bae358e725298f0c61867910f1b8d5a"
+    },
+    {
+      "path": "data/recent-additions.json",
+      "size": 1140017,
+      "sha256": "11b7a257a9d3c9a3822ff65b817d3a8821e6d6f04c444db8bd6feef60b7dad5f"
+    },
+    {
+      "path": "data/search-documents.json",
+      "size": 2879754,
+      "sha256": "5e99d8f62c7b415b1661d9a0a6e92d360a892d7a0bd8e250d8aed7c542976f3f"
+    },
+    {
+      "path": "data/search-terms.json",
+      "size": 712534,
+      "sha256": "4590206210c6078d8412dc0717597dd73a85727c40c00e70c67eb7d7aae57ccf"
+    },
+    {
+      "path": "data/venues.json",
+      "size": 1893270,
+      "sha256": "5080ea45ca2c083e19e4c6aa70e58934953417910d92053a8acf7afb29b32e5e"
+    },
+    {
+      "path": "index.html",
+      "size": 1963,
+      "sha256": "fcc34341695e0ff77b748e132985b8f01b0bfc2d6233b5194f5fb06ffd9d41b0"
+    },
+    {
+      "path": "manifest.json",
+      "size": 464,
+      "sha256": "2091b0ef04d93d79909e519f98ea3d28818ced0be678b2a0d6b234009d799437"
+    },
+    {
+      "path": "vite.svg",
+      "size": 1497,
+      "sha256": "4a748afd443918bb16591c834c401dae33e87861ab5dbad0811c3a3b4a9214fb"
+    }
+  ]
+}

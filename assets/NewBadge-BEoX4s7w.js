@@ -1,0 +1,1 @@
+import{o as n,j as r,n as i}from"./index-izFJyXyg.js";import{N}from"./NewShowBadge-VI6glG3o.js";const u=({createdAtEpochMs:s,addedDateProvenance:a,nowMs:o,timeZone:t=i,className:e=""})=>n({createdAtEpochMs:s,addedDateProvenance:a},o??Date.now(),t)?r.jsx(N,{addedAtEpochMs:s,timeZone:t,className:e}):null;export{u as N};
